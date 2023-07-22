@@ -9,14 +9,14 @@ Most features are categorical (Nominal, Ordinal, Binary), some with high cardina
 Missing imputation can be a part of your pipeline as well.
 
 # Content
-## Reading Data
-## Data Cleaning- Data Reshaping
-## Machine Learning for Missing Values
-## Exploratary Data Analysis (EDA)
-## Machine Learning
-## Evaluation
-## Functions that I have additional used
-## Resource
+-- Reading Data
+-- Data Cleaning- Data Reshaping
+-- Machine Learning for Missing Values
+-- Exploratary Data Analysis (EDA)
+-- Machine Learning
+-- Evaluation
+-- Functions that I have additional used
+-- Resource
 
 # Reading Data
 ![image](https://github.com/NevzatTaha/Hr_Analytics/assets/108625825/13a44449-1723-43e9-8c32-aa681e44ea53)
