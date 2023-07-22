@@ -53,7 +53,8 @@ Missing imputation can be a part of your pipeline as well.
 
 https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists
 
-
+Nevzat-
+Knowledge grows when shared !!!
 
 
 
