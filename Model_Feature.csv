@@ -1,0 +1,41 @@
+,Feature Importance
+city_development_index,0.964475757604486
+training_hours,0.003100036499302942
+relevent_experience_Has relevent experience,0.03242420589621103
+relevent_experience_No relevent experience,0.0
+enrolled_university_Full time course,0.0
+enrolled_university_Part time course,0.0
+enrolled_university_no_enrollment,0.0
+enrolled_university_unknown,0.0
+education_level_Graduate,0.0
+education_level_High School,0.0
+education_level_Masters,0.0
+education_level_Phd,0.0
+education_level_Primary School,0.0
+major_discipline_Arts,0.0
+major_discipline_Business Degree,0.0
+major_discipline_Humanities,0.0
+major_discipline_No Major,0.0
+major_discipline_Other,0.0
+major_discipline_STEM,0.0
+major_discipline_Unknown,0.0
+"experience_(-1.001, 5.0]",0.0
+"experience_(5.0, 8.0]",0.0
+"experience_(8.0, 12.0]",0.0
+"experience_(12.0, 19.0]",0.0
+"experience_(19.0, 20.0]",0.0
+company_size_0-100,0.0
+company_size_100-1000,0.0
+company_size_1000+,0.0
+company_type_Early Stage Startup,0.0
+company_type_Funded Startup,0.0
+company_type_NGO,0.0
+company_type_Other,0.0
+company_type_Public Sector,0.0
+company_type_Pvt Ltd,0.0
+last_new_job_1,0.0
+last_new_job_2,0.0
+last_new_job_3,0.0
+last_new_job_4,0.0
+last_new_job_>4,0.0
+last_new_job_never,0.0
